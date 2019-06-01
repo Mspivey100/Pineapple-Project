@@ -1,0 +1,25 @@
+Title: TBD, Pineapple Project is our placeholder
+
+Members: Justin, Mark B. Mychael, Katy
+
+Project Description: Analysis of Player Injuries for the 2018-2019 NBA Season
+
+Research questions (to be further finessed): 
+  What are the most common injuries overall, and by player position?
+  What teams have the greatest frequency of injuries, and are higher ranked teams more likely to have injured players?
+  Does player hieght/weight affect frequency of injuries?
+  Is league tenure correlated to injury frequency (Are rookies more likely to get injured)?
+
+Data sets to be used: 
+http://api.sportradar.us/nba/simulation/{version}/{language_code}/games/2017/SIM/schedule.{format}?api_key={your_api_key}
+
+Rough breakdown of tasks: 
+  All-Read/understand dataset
+  All-Develop 2 specific questions to answer
+  Each member-Clean dataset based on specific questions to be answered
+  Each member-Create at least 2 grpahs to visualize the specific data analyzed
+  Each member-Write up 2-3 insights from data analysis
+
+
+  
+  

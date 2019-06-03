@@ -11,7 +11,7 @@ Research questions (to be further finessed):
   Is league tenure correlated to injury frequency (Are rookies more likely to get injured)?
 
 Data sets to be used: 
-http://api.sportradar.us/nba/simulation/{version}/{language_code}/games/2017/SIM/schedule.{format}?api_key={your_api_key}
+https://api.sportradar.us/nba/{access_level}/{version}/{language_code}/league/injuries.{format}?api_key={your_api_key}
 
 Rough breakdown of tasks: 
   All-Read/understand dataset
